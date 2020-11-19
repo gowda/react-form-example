@@ -1,18 +1,8 @@
-# react.ts.template
-![](https://github.com/gowda/react.ts.template/workflows/lint-and-tests/badge.svg)
-![](https://github.com/gowda/react.ts.template/workflows/features/badge.svg)
-
-template for react application in typescript.
+# react-form-example
+![](https://github.com/gowda/react-form-example/workflows/lint-and-tests/badge.svg)
+![](https://github.com/gowda/react-form-example/workflows/features/badge.svg)
 
 ## Usage
-`react-app` is assumed as name of the application to be created.
-
-#### Clone the repository
-```bash
-$ git clone git@github.com:gowda/react.ts.template.git react-app
-$ cd react-app
-```
-
 #### Install dependencies
 ```bash
 $ npm install

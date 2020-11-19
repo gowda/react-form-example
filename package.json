@@ -1,7 +1,6 @@
 {
-  "name": "react.ts.template",
+  "name": "react-form-example",
   "version": "0.42.0",
-  "description": "react application template in typescript",
   "main": "src/index.ts",
   "scripts": {
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
@@ -12,7 +11,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "repository": "github:gowda/react.ts.template",
+  "repository": "github:gowda/react-form-example",
   "author": "Basavanagowda Kanur <basavanagowda@gmail.com>",
   "license": "Beerware",
   "devDependencies": {
